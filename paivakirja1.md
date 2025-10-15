@@ -19,3 +19,4 @@ Menin hieman sekaisin tehtävänannon kanssa kun kloonasin repon, mutta ajttelin
 ### fatal: unable to access 'https://github.com/mruonavaara/git-oppimispaivakirja/': The requested URL returned error: 403
 
 | git remote set-url origin git@github.com:davylis/git-oppimispaivakirja.git | päivittää olemassaolevan etärepon url |
+| --------| ------ |
