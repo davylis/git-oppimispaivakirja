@@ -10,3 +10,10 @@ Kirjoita tähän vastauksesi
 | --------| ------ |
 | kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
 | kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+
+| Komento | Kuvaus |
+| --------| ------ |
+| Komento | Kuvaus |
+| --------| ------ |
+| Komento | Kuvaus |
+| --------| ------ |
