@@ -7,6 +7,7 @@ Menin hieman sekaisin tehtävänannon kanssa kun kloonasin repon, mutta ajttelin
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
+| --------| ------ |
 | git clone https://github.com/mruonavaara/git-oppimispaivakirja | kloonaa repon koneelleni |
 | git branch -a | näyttää olemassaolevat haarat |
 | git checkout paivakirja | vaihtaa haaran |
