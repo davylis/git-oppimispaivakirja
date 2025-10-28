@@ -2,7 +2,8 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
-Kirjoita tähän vastauksesi
+-Tehtävä oli simppeli, koska olen jo monta kertaa käyttänyt samoja komentoja projekteissani
+-Oli helppoa yhdistää haarat ja liittää etärepo
 
 ## Osiossa käyttämäni Git-komennot
 
