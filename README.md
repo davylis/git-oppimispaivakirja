@@ -8,3 +8,9 @@
 - Jokaisen harjoituksen hakemisto
 - Yhteenveto tehdyistä harjoituksista
 - linkit kaikista harjoituksista
+
+## Harjoitukset
+
+- [Harjoitus 1](harjoitus1/)
+- [Harjoitus 2](harjoitus2/)
+- [Harjoitus 3](harjoitus3/)
