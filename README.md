@@ -12,5 +12,5 @@
 ## Harjoitukset
 
 - [Harjoitus 1](paivakirja1.md/)
-- [Harjoitus 2](paivakirja2/)
-- [Harjoitus 3](paivakirja3/)
+- [Harjoitus 2](paivakirja2.md/)
+- [Harjoitus 3](paivakirja3.md/)
