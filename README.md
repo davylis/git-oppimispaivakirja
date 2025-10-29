@@ -11,6 +11,6 @@
 
 ## Harjoitukset
 
-- [Harjoitus 1](harjoitus1/)
-- [Harjoitus 2](harjoitus2/)
-- [Harjoitus 3](harjoitus3/)
+- [Harjoitus 1](paivakirja1/)
+- [Harjoitus 2](paivakirja2/)
+- [Harjoitus 3](paivakirja3/)
